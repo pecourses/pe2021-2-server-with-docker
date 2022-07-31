@@ -1,0 +1,15 @@
+{
+  "name": "pe2021-2-server-with-docker",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon ./server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
